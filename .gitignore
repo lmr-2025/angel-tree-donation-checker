@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
+# real angel files never go in this public repo; keep them in a private folder
+/angels/
+/private/
+*.local.md
